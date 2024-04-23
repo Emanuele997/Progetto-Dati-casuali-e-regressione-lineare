@@ -5,7 +5,6 @@ Il compito richiedeva la generazione di un set di dati simulati che riflettesser
 
 Prima Fase: Generazione dei Dati
 Ho iniziato definendo i parametri di una distribuzione normale nella scheda "Parameters". Qui ho impostato valori per la probabilità, la media e la deviazione standard, che sono stati poi utilizzati per generare le età nella scheda "Data". Ho creato 250 età casuali che rappresentano un campione della popolazione di Luggnagg, utilizzando le funzioni di generazione di numeri casuali di Excel basate sui parametri definiti.
-
 Seconda Fase: Strutturazione e Analisi
 Ho strutturato il foglio di calcolo in diverse schede, ognuna con uno scopo specifico:
 
