@@ -13,7 +13,7 @@ Parameters: Impostazioni di base per la generazione dei dati.
 
 Data: Visualizzazione delle età generate e assegnazione casuale dei gruppi da 1 a 4 per ogni individuo, utile per analisi successive.
 
-Sample: Selezionai dati specifici (età) appartenenti a uno dei gruppi predefiniti per un'analisi dettagliata. Utilizzai formule condizionali per filtrare i dati.
+Sample: Selezione dei dati specifici (età) appartenenti a uno dei gruppi predefiniti per un'analisi dettagliata. Utilizzando formule condizionali per filtrare i dati.
 
 Statistical insight: Qui calcolai statistiche descrittive come la deviazione standard, il valore atteso, il conteggio dei dati nel campione, e intervallo di confidenza. Questo tab mi permise di valutare l'accuratezza e la varianza del campione studiato.
 
